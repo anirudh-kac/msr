@@ -1,0 +1,61 @@
+/* navbar */
+/* header */
+h1{
+  font-family: "Pacifico";
+  padding-top: 20px;
+  color:#f6c90e;
+  font-size: 4rem;
+}
+h2{
+  font-family: "Handlee";
+  font-weight: bold;
+}
+h3{
+  font-family: "Handlee";
+  color:#f6c90e;
+}
+
+.profile{
+  border-radius: 100%;
+  padding: 25px 0 25px 0;
+}
+.header{
+  background-color: #303841;
+  text-align: center;
+
+}
+/* about */
+.about{
+  background-color: #eeeeee;
+  text-align: center;
+}
+.about p{
+ font-family: "ubuntu";
+ padding-top: 10px;
+ line-height: 1.5;
+}
+.about .fab{
+  padding-bottom: 20px;
+}
+.about .fab:hover{
+  color:black;
+  margin: auto;
+}
+.skills h4{
+  padding-bottom: 30px;
+}
+/* footer */
+#contact{
+  background-color: #303841;
+  text-align: center;
+  font-family: "ubuntu";
+  color:#f6c90e;
+}
+.contact-icon{
+color:#f6c90e;
+padding-bottom: 20px;
+}
+.contact-me{
+  padding-top: 30px;
+
+}
